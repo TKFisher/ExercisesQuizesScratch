@@ -29,8 +29,6 @@ https://stackoverflow.com/questions/13102045/scanner-is-skipping-nextline-after-
         System.out.println("See my bool: " + userInputBoolean);
 
 
-
-
     }
 
 }
